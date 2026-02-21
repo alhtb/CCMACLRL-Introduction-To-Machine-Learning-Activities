@@ -21,7 +21,7 @@ Introduction to supervised learning using the Scikit-learn diabetes dataset to p
 
 | Notebook | Description | Open in Colab |
 | :--- | :--- | :--- |
-| **Linear Regression** | Implementing predictive modeling for clinical variables and visualizing the relationship between features and target values. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb/CCMACLRL-Introduction-To-Machine-Learning/blob/main/Activity_01_LinearRegression/LinearRegression.ipynb) |
+| **Linear Regression** | Implementing predictive modeling for clinical variables and visualizing the relationship between features and target values. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb/CCMACLRL-Introduction-To-Machine-Learning-Activities/blob/main/Activity_01_LinearRegression/LinearRegression.ipynb) |
 
 ---
 
@@ -43,7 +43,7 @@ Understanding the dataset before modeling through statistical analysis and visua
 
 | Notebook | Description | Open in Colab |
 | :--- | :--- | :--- |
-| **Data Exploration** | Analyzing the Boston House Prices dataset. Includes missing value detection, descriptive statistics, and correlation heatmaps. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb//CCMACLRL-Introduction-To-Machine-Learning-Activities/blob/main/Activity_03_EDA/ExploratoryDataAnalysis.ipynb) |
+| **Data Exploration** | Analyzing the Boston House Prices dataset. Includes missing value detection, descriptive statistics, and correlation heatmaps. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb/CCMACLRL-Introduction-To-Machine-Learning-Activities/blob/main/Activity_03_EDA/ExploratoryDataAnalysis.ipynb) |
 
 ---
 
@@ -54,7 +54,7 @@ A deep dive into the Bias-Variance tradeoff and techniques to prevent model over
 
 | Notebook | Description | Open in Colab |
 | :--- | :--- | :--- |
-| **Overfitting Study** | Visualizing learning curves and applying regularization to ensure models generalize well to unseen data. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb//CCMACLRL-Introduction-To-Machine-Learning-Activities/blob/main/Activity_04_Overfitting/Underfitting,Generalization,AndOverfittingWithRegularizations.ipynb) |
+| **Overfitting Study** | Visualizing learning curves and applying regularization to ensure models generalize well to unseen data. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb/CCMACLRL-Introduction-To-Machine-Learning-Activities/blob/main/Activity_04_Overfitting/Underfitting,Generalization,AndOverfittingWithRegularizations.ipynb) |
 
 ---
 
@@ -65,7 +65,7 @@ Applying machine learning to unstructured text data for automated classification
 
 | Notebook | Description | Open in Colab |
 | :--- | :--- | :--- |
-| **NLP Classification** | Building a Spam Filter using **TF-IDF Vectorization** and comparing **Logistic Regression** vs. **SVM**. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb//CCMACLRL-Introduction-To-Machine-Learning-Activities/blob/main/Activity_05_NLP/NLPandClassification.ipynb) |
+| **NLP Classification** | Building a Spam Filter using **TF-IDF Vectorization** and comparing **Logistic Regression** vs. **SVM**. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb/CCMACLRL-Introduction-To-Machine-Learning-Activities/blob/main/Activity_05_NLP/NLPandClassification.ipynb) |
 
 ---
 
